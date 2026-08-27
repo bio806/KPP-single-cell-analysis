@@ -1,0 +1,13 @@
+Subset,Functional_score,n,Spearman rho,95% CI,Raw P,BH-FDR,Significance
+Pro,Proliferation,95,0.245,0.032 to 0.436,0.017,0.034,*
+Pro,Exhaustion,95,0.222,0.017 to 0.411,0.030,0.041,*
+Pro,Treg signature,95,0.233,0.042 to 0.407,0.023,0.039,*
+Th1,Cytotoxic,100,0.218,0.011 to 0.414,0.029,0.041,*
+Th1,Exhaustion,100,0.397,0.225 to 0.544,<0.001,<0.001,***
+Th1,Unhelped CD4 T,100,0.180,-0.008 to 0.362,0.073,0.087,ns
+Treg,Treg signature,100,0.418,0.245 to 0.571,<0.001,<0.001,***
+Treg,Exhaustion,100,0.280,0.092 to 0.447,0.005,0.011,*
+Treg,Activation,100,0.019,-0.176 to 0.206,0.851,0.851,ns
+CD8_exhausted_like,Exhaustion,100,0.398,0.234 to 0.538,<0.001,<0.001,***
+CD8_exhausted_like,Apoptosis,100,0.365,0.195 to 0.513,<0.001,<0.001,***
+CD8_exhausted_like,Cytotoxic,100,0.146,-0.046 to 0.329,0.148,0.161,ns

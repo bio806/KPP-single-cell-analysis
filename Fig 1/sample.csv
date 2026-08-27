@@ -1,0 +1,120 @@
+Condition,Sample,Name,Gender,Age,Etiological diagnostic methods,"CRKP status (0 = No, 1 = Yes)","Antibiotic exposure(0 = No, 1 = Yes)",Sampling date,Source,"Outcome of 
+ICU stay
+£¨1 = Survival,
+0 = death£©","Outcome of 28/day
+£¨1 = Survival,
+0 = death£©","Tracheal intubation(0 = No, 1 = Yes)",FiO2£¨%£©,"Oxygen partial pressure
+(mmHg£©","Lactic acid
+(mmol/l£©",Red blood cell count¡Á1012 (3.5-5.0¡Á1012/L),Whiteblood cell count¡Á109  (3.97-9.15¡Á109/L),Monocytes count¡Á109                                  (0.12-0.80¡Á109/L),Neutrophil count¡Á109                                  (1.5-8.0¡Á109/L),Lymphocyte count¡Á109                    (0.8-3.5¡Á109/L),"PLT
+(100-300¡Á109/L£©","CRP
+(0-5.4 mg/L£©","PCT
+(0-0.5 ng/ml)","D-D
+(0-0.5 mg/L£©",BNP (0-100 pg/ml),TNI (<0.04 ng/mL£©,CKMB (< 24 U/L£©,CK (24-195 U/L),"
+ALT (9-50 U/L£©","
+AST
+(15-40 U/L£©","TBil
+(0-23 umol/L£©","DBil
+(0-7.2 umol/L£©",IBil (1.71-16.7 umol/L),GGT (10-60 U/L),ALP (45-125 U/L),"ALB
+(40-55 g/L£©",GLB (20-40 g/L),TP(65-85 g/L),BUN (2.9-8.2 mmol/L),"CRE
+(57-97 umol/L£©",UA (210-440 umol/L),"Glu
+(3.9-6.1 mmol/L£©"
+Mild K. pneumoniae pneumonia,M01,MKPP01,Male,48,Microbial culture(sputum),0,0,2025/5/11,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,5.03,6.3,0.5,4.3,1.3,177,6.25,/,75,/,/,/,/,12.3,18.7,9.34,1.66,7.68,32.9,71,45.4,24.6,70,6.3,66.9,362.6,8.42
+Mild K. pneumoniae pneumonia,M02,MKPP02,Male,60,Microbial culture(sputum),0,1,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,102,/,4.9,5.1,0.31,3.43,1.17,164,0.29,<0.05,70,/,/,/,/,20.3,15.6,14.13,5.04,9.09,20.7,103,43,23,66,6.91,59.2,172.7,5.29
+Mild K. pneumoniae pneumonia,M03,MKPP03,Male,32,Microbial culture(sputum),0,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,4.99,5.3,0.2,2.8,2.1,255,2.12,<0.05,58,/,/,/,/,27.4,22.6,7.75,1.57,6.18,25.9,92.4,44.8,30.2,75,5.33,67.6,367.2,5.45
+Mild K. pneumoniae pneumonia,M04,MKPP04,Male,79,Microbial culture(sputum),0,0,2025/5/13,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,21,74,1.8,5.2,4.5,0.4,3.16,0.91,123,0.3,0.06,94,/,/,/,/,37.3,21.9,9.01,2.55,6.46,78.7,50.7,36.4,21.6,58,6.85,80.1,331.5,6.56
+Mild K. pneumoniae pneumonia,M05,MKPP05,Male,39,Microbial culture(sputum),0,0,2025/5/15,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,3.61,10.3,0.6,6.9,2.5,298,8.75,0.19,/,/,/,/,/,8.8,10.9,/,/,/,/,/,38.4,/,64.8,19.04,638.3,376.4,3.86
+Mild K. pneumoniae pneumonia,M06,MKPP06,Male,37,NGS,1,1,2025/5/19,First Hospital of Shanxi Medical University,1,1,0,/,/,/,5.06,6.5,0.34,3.34,2.5,268,/,<0.05,/,/,/,/,/,22,16,17.9,5.3,12.6,/,/,44.2,33.6,77.8,4.37,67.0 ,346,19.82
+Mild K. pneumoniae pneumonia,M07,MKPP07,Male,36,NGS,0,1,2025/5/19,First Hospital of Shanxi Medical University,1,1,0,29,69.1,3,4.41,7.2,0.38,5.47,1.29,354,/,<0.03,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Mild K. pneumoniae pneumonia,M08,MKPP08,Male,79,Microbial culture(sputum),1,0,2025/5/19,First Hospital of Shanxi Medical University,1,1,0,/,/,/,3.58,10.4,0.3,9.1,0.7,491,93.78,0.06,/,/,/,/,/,11.7,27.3,6.13,2.51,3.62,34.7,82.4,33.9,29.1,63,3.79,50.9,210.1,5.34
+Mild K. pneumoniae pneumonia,M09,MKPP09,Male,60,Microbial culture(sputum),0,1,2025/5/20,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,21,102,1.9,4.17,6.7,0.46,5.4,1.5,206,4.42,<0.05,177,/,/,/,/,14.9,17,13.42,3.28,10.14,23.3,74.8,46,27,73,5.76,77.4,434.4,5.36
+Mild K. pneumoniae pneumonia,M10,MKPP10,Female,84,NGS,0,1,2025/5/23,First Hospital of Shanxi Medical University,1,1,0,29,68.7,6.1,3.58,6.6,0.43,4.58,1.42,232,/,2.103,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Mild K. pneumoniae pneumonia,M11,MKPP11,Male,58,Microbial culture¡¢NGS,1,1,2025/5/29,First Hospital of Shanxi Medical University,1,1,0,29,111,0.8,4.55,7.4,0.51,5.28,1.2,640,/,/,5.32,/,/,/,/,40,37,/,/,/,/,/,33.5,/,/,/,44.5,/,/
+Mild K. pneumoniae pneumonia,M12,MKPP12,Male,69,Microbial culture(sputum),0,0,2025/6/14,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,6.08,8.4,0.23,7.09,1.02,83,10.85,/,130,/,/,/,/,56,27.9,22.91,5.88,17.03,56.8,56.8,33,/,56,10.4,74.4,243.3,4.38
+Mild K. pneumoniae pneumonia,M13,MKPP13,Male,62,Microbial culture(sputum),0,0,2025/6/17,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,4.95,4.1,0.3,2.4,1.3,166,0.39,/,54,/,/,/,/,63.3,25.9,12.02,2.46,9.56,18,64.2,41.4,24.6,66,9.22,88.8,400.8,/
+Mild K. pneumoniae pneumonia,M14,MKPP14,Male,71,Microbial culture(sputum),0,0,2025/6/25,First Hospital of Shanxi Medical University,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Mild K. pneumoniae pneumonia,M15,MKPP15,Male,62,Microbial culture(sputum),0,0,2025/6/25,First Hospital of Shanxi Medical University,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Mild K. pneumoniae pneumonia,M16,MKPP16,Male,65,Microbial culture(sputum),0,0,2025/6/27,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,/,/,/,3.57,10.2,0.5,7.9,1.5,306,1.52,/,/,/,/,/,/,31.1,27.9,5.34,1.75,/,54.4,103.8,35.9,/,/,6.6,41.9,256,4.97
+Mild K. pneumoniae pneumonia,M17,MKPP17,Female,83,Microbial culture(sputum),0,1,2025/9/8,First Hospital of Shanxi Medical University,1,1,0,/,/,/,3.04,14.9,0.43,13.24,1.03,215,/,0.232,816,/,/,/,/,18,21,10.2,3.6,6.6,62,67,24.5,/,/,8.44,70,/,/
+Mild K. pneumoniae pneumonia,M18,MKPP18,Male,68,Microbial culture(sputum),/,/,2024/7/9,https://ngdc.cncb.ac.cn/omix/release/OMIX010124,1,1,0,85,/,/,3.13,2.14,0.21,0.72,0.97,235,22.79,0.1,0.39,67,4.5,3.3,23,83,57,6.9,1.4,/,/,/,28.4,/,/,6.56,48.1,/,7.6
+Mild K. pneumoniae pneumonia,M19,MKPP19,Female,51,NGS,/,/,2024/7/16,https://ngdc.cncb.ac.cn/omix/release/OMIX010124,1,1,0,21,80.4,2.4,4.52,5.4,0.2,3.7,1.3,323,15.75,0.04,0.63,58.36,1.75,<0.02,30,18,14,7.88,1.8,/,/,/,33.5,/,/,3.9,49,/,8.29
+Mild K. pneumoniae pneumonia,M20,MKPP20,Female,70,Microbial culture(BALF),/,/,2024/7/17,https://ngdc.cncb.ac.cn/omix/release/OMIX010124,1,1,0,21,154,1.9,4.48,10.61,0.5,7.46,2,241,8.09,0.17,0.61,31.87,<0.02,2.01,51,7,15,5.66,1,/,/,/,38.7,/,/,3.87,41,/,6.37
+Mild K. pneumoniae pneumonia,M21,MKPP21,Female,89,Microbial culture(sputum),/,/,2024/7/19,https://ngdc.cncb.ac.cn/omix/release/OMIX010124,0,0,0,30,92,/,2.33,17.86,1.16,13.87,2.04,225,103.88,0.14,1.023,2477,68.2,3.6,16,3,19.8,13,3.9,/,/,/,28.1,/,/,20.97,147.1,/,7.8
+Mild K. pneumoniae pneumonia,M22,MKPP22,Male,78,Microbial culture(sputum),/,/,2024/1/19,https://ngdc.cncb.ac.cn/omix/release/OMIX010124,1,1,1,0.35,69.2,0.6,3.78,9,0.72,7.38,0.9,196,1.812,0.105,1.51,358.5,0.039,1.53,17.7,5.9,15.8,7.8,2.2,/,/,/,37,/,/,10.13,48.5,/,15.74
+Mild K. pneumoniae pneumonia,M23,MKPP23,Female,63,/,1,/,/,GSE263380,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Severe K. pneumoniae pneumonia,S01,SKPP01,Male,75,Microbial culture(sputum),1,0,2025/5/12,Shanxi Hospital of Traditional Chinese Medicine,1,1,0,33,149,0.6,2.93,9.3,0.8,6.2,1.1,270,25.01,0.08,415,/,/,/,/,23.9,32.7,6.16,1.82,4.34,33.3,69.3,29.2,31.8,61,5.8,52.2,173,/
+Healthy Controls,S-HC008,HC01,Male,44,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC009,HC02,Male,29,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC010,HC03,Male,58,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC011,HC04,Male,35,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC012,HC05,Male,33,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC013,HC06,Male,45,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC014,HC07,Male,37,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC015,HC08,Female,69,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC016,HC09,Female,55,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,,,,,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC017,HC10,Female,71,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC003,HC11,Male,46,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC004,HC12,Male,34,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC005,HC13,Female,37,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC006,HC14,Male,27,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC007,HC15,Male,27,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC021,HC16,Male,28,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC022,HC17,Male,30,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC023,HC18,Male,30,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC024,HC19,Male,27,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,S-HC025,HC20,Male,29,/,/,/,/,http://covid19.cancer-pku.cn,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC01,HC21,Female,44,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC05,HC22,Female,34,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC07,HC23,Female,39,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC20,HC24,Male,34,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC21,HC25,Male,35,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC23,HC26,Male,40,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC31,HC27,Male,51,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC36,HC28,Female,50,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC39,HC29,Female,52,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC58,HC30,Male,39,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,HC60,HC31,Female,56,/,/,/,/,GSE165080,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ171_SYR_cleaned,HC32,Male,53,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ119_YXL_cleaned,HC33,Female,58,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ115_LXM_cleaned,HC34,Female,67,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ122_LMJ_cleaned,HC35,Female,48,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ174_HMF_cleaned,HC36,Female,61,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ423_LFD_cleaned,HC37,Male,56,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ471_PJM_cleaned,HC38,Female,57,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ110_HYZ_cleaned,HC39,Male,47,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ114_XLY_cleaned,HC40,Female,59,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ185_XJG_cleaned,HC41,Male,54,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ263_ZSY_cleaned,HC42,Male,57,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ438_XRD_cleaned,HC43,Female,48,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ206_ZMF_cleaned,HC44,Female,70,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ61_ZWF_cleaned,HC45,Female,58,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ179_WLG_cleaned,HC46,Male,57,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ425_QDX_cleaned,HC47,Male,62,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ410_GYF_cleaned,HC48,Female,42,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ182_QXY_cleaned,HC49,Female,45,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ204_LLM_cleaned,HC50,Male,56,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ464_HSF_cleaned,HC51,Female,58,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ436_WHY_cleaned,HC52,Female,41,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ214_XXM_cleaned,HC53,Female,59,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
+Healthy Controls,PJ278_YMJ_cleaned,HC54,Female,55,/,/,/,/,https://doi.org/10.5281/zenodo.17114800,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/,/
